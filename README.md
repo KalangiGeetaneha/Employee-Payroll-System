@@ -42,13 +42,13 @@ This system allows users to add, update, search, delete, and manage employee rec
 
 ## Project Structure
 
-src/
-Main.java
-Employee (abstract class)
-FullTimeEmployee
-PartTimeEmployee
-DBConnection
-PayrollSystem
+Employee-Payroll-System
+│
+├── src
+│   └── Main.java
+│
+├── README.md
+└── .gitignore
 
 ---
 
