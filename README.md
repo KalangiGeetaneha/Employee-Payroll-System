@@ -42,6 +42,8 @@ This system allows users to add, update, search, delete, and manage employee rec
 
 ## Project Structure
 
+## Project Structure
+
 Employee-Payroll-System
 │
 ├── src
@@ -49,6 +51,8 @@ Employee-Payroll-System
 │
 ├── README.md
 └── .gitignore
+
+
 
 ---
 
